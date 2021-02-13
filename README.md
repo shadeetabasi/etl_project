@@ -11,8 +11,8 @@
 
 # Data Sources
 
-https://www.kaggle.com/unsdsn/world-happiness
-https://www.kaggle.com/sudalairajkumar/daily-temperature-of-major-cities
+* https://www.kaggle.com/unsdsn/world-happiness
+* https://www.kaggle.com/sudalairajkumar/daily-temperature-of-major-cities
 
 # Tools & Technology Used
 * pandas
