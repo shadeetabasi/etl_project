@@ -1,8 +1,8 @@
 # ETL Project : World Happiness & Average Temperatures 
 
 ## Team Members 
-*Justine Sbarra
-*Shadee Tabasi
+* Justine Sbarra
+* Shadee Tabasi
 
 # Our Challenge
 *The goal of this project was to extract, transform, and load two different datasets into a sql database.
