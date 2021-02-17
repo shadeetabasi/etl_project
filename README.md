@@ -21,7 +21,7 @@
 
 # Tools & Technology Used
 * Pandas
-* * NumPy
+* NumPy
 * Jupyter Notebook
 * CSV Files
 * VSCode
