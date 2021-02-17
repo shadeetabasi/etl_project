@@ -1,179 +1,179 @@
 Country,Amount,Year Gross Salary
-Switzerland,"$6,302","$94,526"
-Luxembourg,"$4,480","$67,197"
-Zambia,"$4,331","$64,965"
-Jersey,"$4,323","$64,849"
-Bermuda,"$4,250","$63,750"
-Norway,"$4,215","$63,231"
-Monaco,"$4,143","$62,142"
-Qatar,"$4,038","$60,571"
-Gibraltar,"$3,991","$59,860"
-Australia,"$3,781","$56,710"
-Cayman Islands,"$3,313","$49,695"
-Denmark,"$3,270","$49,044"
-United States of America,"$3,259","$48,883"
-British Virgin Islands,"$3,200","$48,000"
-Sweden,"$3,181","$47,717"
-United Arab Emirates,"$3,081","$46,220"
-The Bahamas,"$3,025","$45,375"
-Ireland,"$2,991","$44,868"
-United Kingdom of Great Britain and Northern Ireland,"$2,961","$44,408"
-Netherlands,"$2,938","$44,064"
-Finland,"$2,924","$43,862"
-Germany,"$2,852","$42,778"
-Aruba,"$2,833","$42,500"
-Japan,"$2,782","$41,736"
-Canada,"$2,774","$41,603"
-France,"$2,762","$41,430"
-Singapore,"$2,759","$41,391"
-Guam,"$2,750","$41,250"
-Greenland,"$2,745","$41,173"
-Andorra,"$2,731","$40,967"
-New Zealand,"$2,693","$40,396"
-Angola,"$2,650","$39,750"
-Belgium,"$2,565","$38,473"
-Hong Kong (S.A.R.),"$2,496","$37,438"
-Guernsey,"$2,495","$37,431"
-Faroe Islands,"$2,470","$37,055"
-Austria,"$2,457","$36,860"
-New Caledonia,"$2,425","$36,380"
-Kuwait,"$2,237","$33,551"
-Brunei,"$2,228","$33,423"
-Iceland,"$2,176","$32,642"
-South Korea,"$2,174","$32,615"
-Italy,"$2,118","$31,766"
-Oman,"$2,087","$31,307"
-Reunion,"$1,912","$28,677"
-Israel,"$1,875","$28,119"
-Saudi Arabia,"$1,786","$26,791"
-Gabon,"$1,704","$25,562"
-Puerto Rico,"$1,704","$25,553"
-Spain,"$1,635","$24,527"
-Barbados,"$1,625","$24,375"
-Cyprus,"$1,619","$24,283"
-Malta,"$1,562","$23,433"
-French Polynesia,"$1,502","$22,532"
-Belize,"$1,441","$21,615"
-South Africa,"$1,400","$21,000"
-Mauritius,"$1,338","$20,066"
-Taiwan,"$1,307","$19,611"
-Slovenia,"$1,276","$19,135"
-Grenada,"$1,250","$18,750"
-Bahrain,"$1,227","$18,402"
-Curacao,"$1,102","$16,527"
-Malawi,"$1,099","$16,485"
-Equatorial Guinea,"$1,088","$16,313"
-Portugal,"$1,082","$16,226"
-Jamaica,"$1,080","$16,207"
-Czech Republic,"$1,020","$15,307"
-Argentina,"$1,019","$15,279"
-Lesotho,"$1,018","$15,267"
-Malaysia,$980,"$14,694"
-Greece,$953,"$14,302"
-Chile,$950,"$14,243"
-Slovakia,$948,"$14,219"
-Lebanon,$937,"$14,057"
-Estonia,$915,"$13,725"
-Poland,$906,"$13,584"
-Croatia,$870,"$13,046"
-Uruguay,$863,"$12,939"
-Isle of Man,$831,"$12,471"
-Suriname,$808,"$12,120"
-Swaziland,$787,"$11,804"
-Costa Rica,$779,"$11,686"
-Panama,$770,"$11,553"
-Brazil,$758,"$11,369"
-Mozambique,$757,"$11,358"
-Turkey,$756,"$11,341"
-Nigeria,$732,"$10,975"
-China,$731,"$10,967"
-Mexico,$730,"$10,949"
-Trinidad and Tobago,$719,"$10,792"
-Latvia,$713,"$10,697"
-Haiti,$713,"$10,688"
-Fiji,$710,"$10,653"
-Lithuania,$701,"$10,519"
-Russia,$686,"$10,292"
-Hungary,$668,"$10,014"
-Sudan,$650,"$9,750"
-Libya,$644,"$9,661"
-Jordan,$637,"$9,555"
-Namibia,$633,"$9,495"
-Tanzania,$633,"$9,490"
-Maldives,$627,"$9,410"
-Kazakhstan,$614,"$9,214"
-Nicaragua,$593,"$8,888"
-Montenegro,$590,"$8,847"
-Iraq,$573,"$8,593"
-Guatemala,$571,"$8,562"
-Venezuela,$565,"$8,471"
-Bolivia,$564,"$8,463"
-Bosnia and Herzegovina,$562,"$8,437"
-Madagascar,$533,"$8,000"
-Botswana,$529,"$7,933"
-Azerbaijan,$525,"$7,873"
-Honduras,$523,"$7,843"
-Dominica,$514,"$7,708"
-Serbia,$507,"$7,606"
-Bulgaria,$507,"$7,601"
-Thailand,$503,"$7,542"
-Belarus,$502,"$7,533"
-Zimbabwe,$500,"$7,500"
-Peru,$492,"$7,382"
-Dominican Republic,$491,"$7,371"
-Romania,$487,"$7,306"
-Kenya,$481,"$7,218"
-Colombia,$475,"$7,120"
-Cameroon,$467,"$7,001"
-Mongolia,$465,"$6,973"
-Rwanda,$460,"$6,900"
-India,$452,"$6,782"
-"Iran, Islamic Republic of...",$448,"$6,714"
-Albania,$434,"$6,513"
-Paraguay,$426,"$6,384"
-Saint Lucia,$421,"$6,317"
-Morocco,$416,"$6,234"
-Mali,$400,"$6,000"
-Tunisia,$393,"$5,895"
-Republic of Macedonia,$387,"$5,803"
-Uganda,$380,"$5,697"
-Turkmenistan,$373,"$5,600"
-El Salvador,$365,"$5,475"
-Uzbekistan,$361,"$5,411"
-Ecuador,$359,"$5,389"
-Ukraine,$358,"$5,366"
-Sri Lanka,$353,"$5,289"
-Democratic Republic of the Congo,$352,"$5,277"
-Ghana,$351,"$5,268"
-Somalia,$350,"$5,250"
-Kyrgyzstan,$350,"$5,250"
-Algeria,$346,"$5,197"
-Bangladesh,$340,"$5,103"
-Viet Nam,$335,"$5,019"
-Philippines,$331,"$4,961"
-Armenia,$313,"$4,693"
-Indonesia,$304,"$4,564"
-Georgia,$299,"$4,491"
-Burma,$282,"$4,224"
-Laos,$281,"$4,220"
-Papua New Guinea,$274,"$4,112"
-Seychelles,$267,"$4,008"
-Egypt,$264,"$3,965"
-Burundi,$256,"$3,844"
-Syria,$252,"$3,776"
-Ethiopia,$249,"$3,735"
-Moldova,$244,"$3,661"
-Cambodia,$244,"$3,659"
-Pakistan,$239,"$3,590"
-Yemen,$229,"$3,435"
-Afghanistan,$214,"$3,204"
-Guyana,$209,"$3,140"
-Senegal,$200,"$3,000"
-Cape Verde,$191,"$2,868"
-Tajikistan,$187,"$2,809"
-Nepal,$166,"$2,497"
-Samoa,$64,$957
-Gambia,$39,$591
-Cuba,$25,$376
-Other,"$1,142","$16,900"
-Republic of Korea,$214,"$3,204"
+Switzerland,6302,94526
+Luxembourg,4480,67197
+Zambia,4331,64965
+Jersey,4323,64849
+Bermuda,4250,63750
+Norway,4215,63231
+Monaco,4143,62142
+Qatar,4038,60571
+Gibraltar,3991,59860
+Australia,3781,56710
+Cayman Islands,3313,49695
+Denmark,3270,49044
+United States of America,3259,48883
+British Virgin Islands,3200,48000
+Sweden,3181,47717
+United Arab Emirates,3081,46220
+The Bahamas,3025,45375
+Ireland,2991,44868
+United Kingdom of Great Britain and Northern Ireland,2961,44408
+Netherlands,2938,44064
+Finland,2924,43862
+Germany,2852,42778
+Aruba,2833,42500
+Japan,2782,41736
+Canada,2774,41603
+France,2762,41430
+Singapore,2759,41391
+Guam,2750,41250
+Greenland,2745,41173
+Andorra,2731,40967
+New Zealand,2693,40396
+Angola,2650,39750
+Belgium,2565,38473
+Hong Kong (S.A.R.),2496,37438
+Guernsey,2495,37431
+Faroe Islands,2470,37055
+Austria,2457,36860
+New Caledonia,2425,36380
+Kuwait,2237,33551
+Brunei,2228,33423
+Iceland,2176,32642
+South Korea,2174,32615
+Italy,2118,31766
+Oman,2087,31307
+Reunion,1912,28677
+Israel,1875,28119
+Saudi Arabia,1786,26791
+Gabon,1704,25562
+Puerto Rico,1704,25553
+Spain,1635,24527
+Barbados,1625,24375
+Cyprus,1619,24283
+Malta,1562,23433
+French Polynesia,1502,22532
+Belize,1441,21615
+South Africa,1400,21000
+Mauritius,1338,20066
+Taiwan,1307,19611
+Slovenia,1276,19135
+Grenada,1250,18750
+Bahrain,1227,18402
+Curacao,1102,16527
+Malawi,1099,16485
+Equatorial Guinea,1088,16313
+Portugal,1082,16226
+Jamaica,1080,16207
+Czech Republic,1020,15307
+Argentina,1019,15279
+Lesotho,1018,15267
+Malaysia,980,14694
+Greece,953,14302
+Chile,950,14243
+Slovakia,948,14219
+Lebanon,937,14057
+Estonia,915,13725
+Poland,906,13584
+Croatia,870,13046
+Uruguay,863,12939
+Isle of Man,831,12471
+Suriname,808,12120
+Swaziland,787,11804
+Costa Rica,779,11686
+Panama,770,11553
+Brazil,758,11369
+Mozambique,757,11358
+Turkey,756,11341
+Nigeria,732,10975
+China,731,10967
+Mexico,730,10949
+Trinidad and Tobago,719,10792
+Latvia,713,10697
+Haiti,713,10688
+Fiji,710,10653
+Lithuania,701,10519
+Russia,686,10292
+Hungary,668,10014
+Sudan,650,9750
+Libya,644,9661
+Jordan,637,9555
+Namibia,633,9495
+Tanzania,633,9490
+Maldives,627,9410
+Kazakhstan,614,9214
+Nicaragua,593,8888
+Montenegro,590,8847
+Iraq,573,8593
+Guatemala,571,8562
+Venezuela,565,8471
+Bolivia,564,8463
+Bosnia and Herzegovina,562,8437
+Madagascar,533,8000
+Botswana,529,7933
+Azerbaijan,525,7873
+Honduras,523,7843
+Dominica,514,7708
+Serbia,507,7606
+Bulgaria,507,7601
+Thailand,503,7542
+Belarus,502,7533
+Zimbabwe,500,7500
+Peru,492,7382
+Dominican Republic,491,7371
+Romania,487,7306
+Kenya,481,7218
+Colombia,475,7120
+Cameroon,467,7001
+Mongolia,465,6973
+Rwanda,460,6900
+India,452,6782
+"Iran, Islamic Republic of...",448,6714
+Albania,434,6513
+Paraguay,426,6384
+Saint Lucia,421,6317
+Morocco,416,6234
+Mali,400,6000
+Tunisia,393,5895
+Republic of Macedonia,387,5803
+Uganda,380,5697
+Turkmenistan,373,5600
+El Salvador,365,5475
+Uzbekistan,361,5411
+Ecuador,359,5389
+Ukraine,358,5366
+Sri Lanka,353,5289
+Democratic Republic of the Congo,352,5277
+Ghana,351,5268
+Somalia,350,5250
+Kyrgyzstan,350,5250
+Algeria,346,5197
+Bangladesh,340,5103
+Viet Nam,335,5019
+Philippines,331,4961
+Armenia,313,4693
+Indonesia,304,4564
+Georgia,299,4491
+Burma,282,4224
+Laos,281,4220
+Papua New Guinea,274,4112
+Seychelles,267,4008
+Egypt,264,3965
+Burundi,256,3844
+Syria,252,3776
+Ethiopia,249,3735
+Moldova,244,3661
+Cambodia,244,3659
+Pakistan,239,3590
+Yemen,229,3435
+Afghanistan,214,3204
+Guyana,209,3140
+Senegal,200,3000
+Cape Verde,191,2868
+Tajikistan,187,2809
+Nepal,166,2497
+Samoa,64,957
+Gambia,39,591
+Cuba,25,376
+Other,1142,16900
+Republic of Korea,214,3204
