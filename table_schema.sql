@@ -13,3 +13,16 @@ Country TEXT,
 Average_Temperature FLOAT
 );
 
+CREATE TABLE alcohol (
+id INT PRIMARY KEY,
+Country TEXT, 
+Alcohol_Per_Capita FLOAT
+);
+
+CREATE TABLE salary (
+id INT PRIMARY KEY,
+Country TEXT,
+Amount INT,
+Year_Gross_Salary INT
+);
+
