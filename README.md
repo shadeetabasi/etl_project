@@ -1,4 +1,4 @@
-# ETL Project : World Happiness & Average Temperatures 
+# ETL Project : World Happiness and Possible Factors that affect it
 
 ## Team Members 
 * Justine Sbarra
@@ -13,11 +13,15 @@
 
 * https://www.kaggle.com/unsdsn/world-happiness
 * https://www.kaggle.com/sudalairajkumar/daily-temperature-of-major-cities
+* https://www.kaggle.com/marcospessotto/happiness-and-alcohol-consumption
+* https://www.kaggle.com/zinovadr/average-monthly-salary-after-taxes-by-country?select=After+tax+plus+year+gross.csv
+
+
 
 # Tools & Technology Used
 * pandas
 * jupyter notebook
-* csvs
+* csv files
 * vscode
 * numpy
 * postgress/pgadmin
